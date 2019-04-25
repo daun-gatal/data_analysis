@@ -1,3 +1,3 @@
 # data_analysis
 
-This repositories is about my exercise in Data Analysis
+This repositories is about my training in Data Analysis
